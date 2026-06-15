@@ -8,10 +8,10 @@ TECHXSPERTS is a comprehensive project designed to provide technical expertise a
 
 ## Features
 
-- 🚀 High-performance solutions
-- 💡 Expert implementation
-- 📚 Well-documented codebase
-- 🔧 Easy to integrate
+- High-performance solutions
+- Expert implementation
+- Well-documented codebase
+- Easy to integrate
 
 ## Getting Started
 
