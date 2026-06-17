@@ -1,8 +1,29 @@
-## Description
+# Project Name
 
-This project is a mobile-first platform designed to transform entry-level hiring by shifting the focus from traditional job histories to **competency-based profiles** for graduates. Instead of relying on a resume timeline, employers can evaluate candidates based on verifiable capabilities and proof of skill. 
+> **A competency-based, mobile-first platform bridging the gap between fresh graduates and entry-level employment.**
 
-The platform bridges the gap between education and employment by utilizing features such as:
-* **Automated Parsing & Verification:** Built-in verification tools, including QR codes and live portfolio links, ensure trust by validating that tasks are authentic and verifiable.
-* **Evidence-Based Metrics:** Profiles showcase tangible proof of readiness through completed projects, freelance tasks, virtual internships, and targeted soft-skills assessments rather than relying on past job experiences.
-* **Hiring Analytics:** The application generates data-driven analytics for each profile, providing employers with a reliable, objective basis for conducting interviews and making informed hiring decisions.
+---
+
+## 📋 Project Description
+
+This platform is a mobile-first solution designed to redefine how fresh graduates enter the job market. Instead of relying on traditional, often non-existent job histories, the platform allows employers to view **competency-based profiles** driven by tangible proof of capability. 
+
+By shifting the focus from past employment to verifiable readiness, the application enables graduates to showcase skills acquired through:
+* Completed technical and academic projects
+* Freelance tasks and gig work
+* Virtual internships
+* Verified soft-skills assessments
+
+### Key Features
+* **Competency-Based Profiles:** Shifting the hiring paradigm from resume timelines to actual proof of skill.
+* **Automated Verification & Trust:** Integrated automated parsing alongside verification tools like QR codes and live, interactive portfolio links to guarantee the authenticity of a candidate's tasks.
+* **Data-Driven Analytics:** Built-in analytics provide employers with clear insights into a graduate's performance, serving as a solid, objective basis for interviews and hiring decisions.
+
+---
+
+## 🎯 Purpose & Vision
+
+The core mission of this project is to **eliminate the "experience requirement" barrier** that heavily restricts entry-level hiring. 
+
+* **For Graduates:** It provides a level playing field to confidently prove job readiness, bypass the classic "need experience to get experience" paradox, and secure paid opportunities.
+* **For Employers:** It reduces hiring risk by delivering verifiable, job-relevant evidence and actionable data instead of unverified resumes.
